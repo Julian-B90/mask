@@ -143,5 +143,3 @@ class BackendLayout extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity
         $this->description = $description;
     }
 }
-
-?>
